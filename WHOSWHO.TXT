@@ -1,0 +1,13 @@
+[1;33;44mÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³    [31mWHOSWHO MENU - VIRTULAN BBS[33m     ³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´
+³                                    ³
+³ (C)hat ...  Online conference      ³
+³ (L)ist ...  Current users online   ³
+³ (P)age ...  Page a user            ³
+³ (Q)uit ...  To main menu           ³
+³ (U)ser ...  List registered users  ³
+³ (X)pert...  Toggle                 ³
+³ (?)    ...  List this menu         ³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+[1;32;44m

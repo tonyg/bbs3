@@ -1,0 +1,12 @@
+[1;33;44mÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³                        [31mMAIL MENU --- VIRTULAN[33m                         ³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´
+³                                                                       ³
+³ Any Number . . . . Read the message with that number                  ³
+³                                                                       ³
+³ (A)rea change           (L)ist new msgs to you    (E)nter message     ³
+³ (Q)uit to main menu     (N)ext message            (P)revious msg      ³
+³ (S)ummary of msgs       (X)pert mode toggle                           ³
+³ (?) List this menu                                                    ³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+[1;32;44m

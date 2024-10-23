@@ -1,0 +1,14 @@
+[1;33;44mÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³                        [31mMAIN MENU --- VIRTULAN[33m                         ³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´
+³                                                                       ³
+³ (B)ulletins  ...                 Read Bulletins                       ³
+³ (F)iles      ...                 DL or UL Files                       ³
+³ (G)oodbye    ...                 Log off System                       ³
+³ (M)ail       ...                 Messages to Local Users              ³
+³ (S)etup      ...                 Personal Setup Menu                  ³
+³ (W)ho        ...                 List of users... chat menus          ³
+³ (X)pert mode ...                 Turn on or off menu display          ³
+³ (?) Help     ...                 Re-list this menu                    ³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+[1;32;44m
